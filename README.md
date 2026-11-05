@@ -219,7 +219,12 @@ The repository includes scripts, a notebook, processed data, simulation result f
 ## Author
 
 **Ananyo Sen**  
-M.Sc. Student | Machine Learning | Econometrics | Data Science
+M.Sc. Student | Data Science
+**Ayan Kumar Batabyal**  
+M.Sc. Student | Data Science
+**Sagnik Chandra**  
+M.Sc. Student | Data Science
+
 
 ---
 
