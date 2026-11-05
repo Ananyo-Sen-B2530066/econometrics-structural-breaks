@@ -1,0 +1,3 @@
+Method,Break Specification,Estimated Breaks,Test Statistic / Criterion,p-value,Conclusion
+HAC-Robust Chow-Style Wald Test,Pre-specified: April 2020,1,5.805547432331718,0.05487081272648871,Not significant at 5%
+Dynamic Programming + BIC,Unknown break locations,0,-1420.4366711948314,,One segment preferred

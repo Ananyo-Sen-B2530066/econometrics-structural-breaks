@@ -1,0 +1,5 @@
+scenario,sup_f,estimated_break,bootstrap_p_value,reject_H0
+S1_no_break,2.678595920185727,82,0.512,False
+S2_intercept_break,365.4137674337862,151,0.001,True
+S3_slope_break,1965.1533011126526,150,0.001,True
+S4_multiple_breaks,75.11333944861319,200,0.001,True

@@ -1,0 +1,8 @@
+Analysis,Finding,Interpretation
+ADF and KPSS: Log CPI,Non-stationary,Log CPI is plausibly I(1)
+ADF and KPSS: First Difference,Stationary,First difference is plausibly I(0)
+April 2020 HAC-Wald Test,p-value = 0.0549,Not significant at 5%
+DP/BIC: Intercept and Slope,0 breaks,One segment preferred
+DP/BIC: Intercept Only,0 breaks,One segment preferred
+Minimum Segment Sensitivity,"0 breaks for lengths 24, 30, 36",Stable across tested lengths
+Serial Correlation Diagnostics,Significant autocorrelation persists,Error dependence remains
